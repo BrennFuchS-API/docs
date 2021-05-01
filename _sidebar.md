@@ -1,56 +1,9 @@
-- **Getting started**
+- **Main**
   - [Home](/)
-  - [Download](Download.md)
-  - [Frequently Asked Questions](FAQ.md)
-- **For creators**
-  - [Preparing Environment](ForCreators/PreparingEnvironment.md)
-  - [Creating a new mod](ForCreators/CreatingANewMod.md)
-  - [Porting existing mods to Mod Loader Pro](ForCreators/PortingMods.md)
-  - [Cross-platform mods](ForCreators/CrossPlatformMods.md)
-  - [Mod Auto-Updates](ForCreators/ModAutoUpdates.md)
-  - [Adding mod icon](ForCreators/AddingModIcon.md)
-- **API**
-  - [**MSCLoader**](API/MSCLoader.md)
-    - [Mod](API/MSCLoader/Mod.md)
-    - [ModAssets](API/MSCLoader/ModAssets.md)
-    - [ModConsole](API/MSCLoader/ModConsole.md)
-    - [ModEarlyAccess](API/MSCLoader/ModEarlyAccess.md)
-    - [ModLoader](API/MSCLoader/ModLoader.md)
-    - [ModPrompt](API/MSCLoader/ModPrompt.md)
-    - [ModSave](API/MSCLoader/ModSave.md)
-    - [ModSettings](API/MSCLoader/ModSettings.md)
-      - [ModSetting](API/MSCLoader/ModSetting.md)
-        - [SettingBoolean](API/MSCLoader/SettingBoolean.md)
-        - [SettingButton](API/MSCLoader/SettingButton.md)
-        - [SettingHeader](API/MSCLoader/SettingHeader.md)
-        - [SettingKeybind](API/MSCLoader/SettingKeybind.md)
-        - [SettingNumber](API/MSCLoader/SettingNumber.md)
-        - [SettingRadioButtons](API/MSCLoader/SettingRadioButtons.md)
-        - [SettingSlider](API/MSCLoader/SettingSlider.md)
-        - [SettingSpacer](API/MSCLoader/SettingSpacer.md)
-        - [SettingString](API/MSCLoader/SettingString.md)
-        - [SettingText](API/MSCLoader/SettingText.md)
-        - [SettingTextBox](API/MSCLoader/SettingTextBox.md)
-        - [SettingToggle](API/MSCLoader/SettingToggle.md)
-
-  - [**MSCLoader.Helper**](API/MSCLoader.Helper.md)
-    - [ModHelper](API/MSCLoader.Helper/ModHelper.md)
-    - [PlayMakerHelper](API/MSCLoader.Helper/PlayMakerHelper.md)
-    - [PlayMakerProxyHelper](API/MSCLoader.Helper/PlayMakerProxyHelper.md)
-
-  - [**MSCLoader.PartMagnet**](API/MSCLoader.PartMagnet.md)
-    - [Bolt](API/MSCLoader.PartMagnet/Bolt.md)
-    - [BoltMagnet](API/MSCLoader.PartMagnet/BoltMagnet.md)
-    - [PartMagnet](API/MSCLoader.PartMagnet/PartMagnet.md)
-
-  - [**MSCLoader.MSCCar**](API/MSCLoader.MSCCar.md)
-    - [DragRace](API/MSCLoader.MSCCar/DragRace.md)
-    - [DragRaceVehicle](API/MSCLoader.MSCCar/DragRaceVehicle.md)
-
-  - [**MSCLoader.Paint**](API/MSCLoader.Paint.md)
-    - [PaintSystem](API/MSCLoader.Paint/PaintSystem.md)
-
-
-- [**Credits**](Credits.md)
-
-- [**Changelog**](Changelog.md)
+- **APIs**
+  - [**LoadingScreenComponents**](APIs/LoadingScreenComponents/LoadingScreenComponents.md)
+    - [LoadingScreenParent](APIs\LoadingScreenComponents\Classes\LoadingScreenParent.md)
+    - [*LoadingScreenItem*](APIs\LoadingScreenComponents\Classes\LoadingScreenItem.md)
+      - [LoadingBar](APIs\LoadingScreenComponents\Classes\LoadingBar.md)
+      - [LoadingSpinner](APIs\LoadingScreenComponents\Classes\LoadingSpinner.md)
+      - [LoadingText](APIs\LoadingScreenComponents\Classes\LoadingText.md)
