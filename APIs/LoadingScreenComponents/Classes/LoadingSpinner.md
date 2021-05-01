@@ -4,7 +4,7 @@
 
 spins an object around a set axis while loading.
 
-### Variables
+### Variables:
 
 Name | Description | Type
 ---- | ----------- | ----

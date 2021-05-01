@@ -4,7 +4,7 @@
 
 Base class of all LoadingScreen Classes
 
-### Public Override Functions
+### Public Override Methods:
 
 Name | Description
 ---- | -----------

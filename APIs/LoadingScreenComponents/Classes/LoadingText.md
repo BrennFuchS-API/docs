@@ -4,7 +4,7 @@
 
 the classic text showing the progress of the loading.
 
-### Variables
+### Variables:
 
 Name | Description | Type
 ---- | ----------- | ----

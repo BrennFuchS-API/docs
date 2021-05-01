@@ -4,7 +4,7 @@
 
 Parent of any Loading Screen
 
-### Variables
+### Variables:
 
 Name | Description | Type
 ---- | ----------- | ----

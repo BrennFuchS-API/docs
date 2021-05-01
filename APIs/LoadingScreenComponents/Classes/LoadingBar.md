@@ -4,7 +4,7 @@
 
 the classic loading Bar we all know and love.
 
-### Variables
+### Variables:
 
 Name | Description | Type
 ---- | ----------- | ----
