@@ -1,5 +1,5 @@
 - **Main**
-  - [Home](/)
+  - [Home](/?id=welcome-to-brenn39s-api-documentation)
 - **APIs**
   - [**LoadingScreenComponents**](APIs/LoadingScreenComponents/LoadingScreenComponents.md)
     - [LoadingScreenParent](APIs\LoadingScreenComponents\Classes\LoadingScreenParent.md)
