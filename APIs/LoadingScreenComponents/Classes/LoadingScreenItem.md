@@ -4,6 +4,14 @@
 
 Base class of all LoadingScreen Classes
 
+### Classes based on this one:
+
+Class | Description
+----- | -----------
+[LoadingBar](APIs\LoadingScreenComponents\Classes\LoadingBar.md) | the classic loading Bar we all know and love.
+[LoadingSpinner](APIs\LoadingScreenComponents\Classes\LoadingSpinner.md) | spins an object around a set axis while loading.
+[LoadingText](APIs\LoadingScreenComponents\Classes\LoadingText.md) | the classic text showing the progress of the loading.
+
 ### Public Override Methods:
 
 Name | Description
